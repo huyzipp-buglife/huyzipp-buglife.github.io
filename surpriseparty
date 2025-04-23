@@ -55,8 +55,8 @@
     <audio id="backgroundAudio" preload="auto">
         <source src="https://huyzipp-buglife.github.io/unexpectedthings/fun.mp3" type="audio/mpeg">
     </audio>
-    <img src="background.png" style="display:none;" onload="imageLoaded()">
-    <img src="fun.gif" style="display:none;" onload="imageLoaded()">
+    <img src="https://huyzipp-buglife.github.io/unexpectedthings/background.png" style="display:none;" onload="imageLoaded()">
+    <img src="https://huyzipp-buglife.github.io/unexpectedthings/fun.gif" style="display:none;" onload="imageLoaded()">
 
     <button id="myButton" onclick="changeColor()"><h1>SURPRISE BUTTON!</h1></button>
     
